@@ -20,58 +20,57 @@ When you interact with our bot, we collect:
 ## How We Use Your Information
 We use the collected information to:
 
-Provide automated responses to your messages
-Improve our bot's functionality and user experience
-Ensure proper service operation
-Analyze usage patterns to enhance bot performance
-Debug and prevent technical issues
-Comply with Instagram Platform Policies
+1.  Provide automated responses to your messages
+2.  Improve our bot's functionality and user experience
+3.  Ensure proper service operation
+4.  Analyze usage patterns to enhance bot performance
+5.  Debug and prevent technical issues
+6.  Comply with Instagram Platform Policies
 
 ## Data Storage and Security
 
-We do not permanently store your messages beyond the necessary operation period
-All data processing is done securely using industry-standard encryption
-We implement appropriate technical and organizational measures to protect your data
-We do not share your information with third parties
-Data is stored in secure cloud infrastructure
-Regular security audits are performed
+1.  We do not permanently store your messages beyond the necessary operation period
+2.  All data processing is done securely using industry-standard encryption
+3.  We implement appropriate technical and organizational measures to protect your data
+4.  We do not share your information with third parties
+5.  Data is stored in secure cloud infrastructure
+6.  Regular security audits are performed
 
 ## Legal Basis for Processing
 
 We process your data based on:
 
-Your consent when interacting with our bot
-Our legitimate interests in improving our service
-Compliance with legal obligations
+1.  Your consent when interacting with our bot
+2.  Our legitimate interests in improving our service
+3.  Compliance with legal obligations
 
 ## Your Rights
 
 You have the right to:
 
-Stop using the bot at any time
-Request information about your data
-Request deletion of your data
-Object to data processing
-File a complaint with relevant data protection authorities
+1.  Stop using the bot at any time
+2.  Request information about your data
+3.  Request deletion of your data
+4.  Object to data processing
+5.  File a complaint with relevant data protection authorities
 
-Instagram Platform Compliance
+## Instagram Platform Compliance
 We comply with:
 
-## Instagram Platform Policy
-
-Meta's Terms of Service
-Applicable data protection laws and regulations
+1.  Instagram Platform Policy
+2.  Meta's Terms of Service
+3.  Applicable data protection laws and regulations
 
 ## Data Retention
 
-Chat logs are retained for a maximum of 30 days
-Account data is retained while your account is active
-Data is automatically deleted after the retention period
+1.  Chat logs are retained for a maximum of 30 days
+2.  Account data is retained while your account is active
+3.  Data is automatically deleted after the retention period
 
 ## International Data Transfers
 
-All data is processed and stored in compliance with applicable data protection laws
-We implement appropriate safeguards for any data transfers
+1.  All data is processed and stored in compliance with applicable data protection laws
+2.  We implement appropriate safeguards for any data transfers
 
 ## Children's Privacy
 Our service is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children.
@@ -82,7 +81,9 @@ We may update this privacy policy from time to time. Any changes will be posted 
 If you have any questions about this privacy policy or our practices, please contact us at:
 
 Email: hackhomer76@gmail.com
+
 Purpose of contact: Privacy Policy Inquiry
+
 Response time: Within 5 business days
 
 ## Governing Law
